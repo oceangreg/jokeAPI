@@ -1,4 +1,6 @@
-# hello-world
+# jokeAPI
+
+API Copyright - https://sv443.net/jokeapi/v2/
 
 ## Preview
 ```
