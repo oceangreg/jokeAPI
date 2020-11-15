@@ -1,5 +1,10 @@
 # hello-world
 
+## Preview
+```
+https://determined-kowalevski-c916c8.netlify.app/
+```
+
 ## Project setup
 ```
 npm install
